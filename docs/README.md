@@ -37,4 +37,3 @@ After each sprint, release, or major milestone, retrospectives capture lessons l
 - Serve as the main navigation page for process docs
 - Help new team members understand the process set quickly
 - Provide a concise summary of how OctoAcme runs projects end to end
-EOF
